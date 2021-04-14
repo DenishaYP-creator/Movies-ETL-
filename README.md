@@ -1,12 +1,13 @@
 # Movies-ETL-
 
 
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+## Deliverable 1: Write an ETL function to read three data files
+- An ETL function is written to read in the three data files. (10 pt)
+- The function converts the Wikipedia JSON file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file. (5 pt)
+- The function converts the Kaggle metadata file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file. (5 pt)
+- The function converts the MovieLens ratings data file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file. (5 pt)
 
-As a reminder, the deliverables for this Challenge are as follows:
 
-Deliverable 1: Write an ETL function to read three data files
 ## Deliverable 2: Extract and Transform the Wikipedia Data
 - The TV shows are filtered out, and the wiki_movies_df DataFrame is created. (3 pt)
 - A try-except block is used to catch errors while extracting the IMDb IDs with a regular expression and dropping duplicate IDs. (5 pt)
