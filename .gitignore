@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+#Adding additonal files 
+ETL_function_test.ipynb
+ETL_clean_wiki_movies.ipynb
+ETL_clean_kaggle_data.Div3.ipynb
+https://github.com/DenishaYP-creator/Movies-ETL-/blob/main/ETL_clean_kaggle_data.Div3.ipynb
+https://github.com/DenishaYP-creator/Movies-ETL-/blob/main/ETL_clean_wiki_movies.ipynb
+https://github.com/DenishaYP-creator/Movies-ETL-/blob/main/ETL_function_test.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
